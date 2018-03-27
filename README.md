@@ -1,5 +1,9 @@
 # checkstyle.github.io
 
+_This is kept here just for historical reasons. 
+The https://github.com/checkstyle/checkstyle.github.io/ repository
+is what is now served for real on http://www.checkstyle.org._
+
 This is the static content served on http://www.checkstyle.org via GitHub Pages.
 
 Do not modify this or raise any PRs or Issues against this repo.  
